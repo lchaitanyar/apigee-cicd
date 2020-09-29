@@ -13,4 +13,3 @@ npm publish
 
 rm -rf ../npm
 
-echo "NPM"
